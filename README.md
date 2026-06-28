@@ -28,4 +28,4 @@ If you want to view, modify, or compile the C++ code yourself:
 2. Open your terminal and navigate to the folder containing the `.cpp` file.
 3. Compile the code using the following command:
    ```bash
-   g++ main.cpp -o converter
+   g++ 5th_conversion_all.cpp -o converter
